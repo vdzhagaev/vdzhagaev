@@ -13,10 +13,11 @@ to reason about as it grows.
 - Open to backend / full-stack roles — remote or relocation
 
 #### 📦 Published packages
-Authored and published a set of NestJS / TypeScript building blocks on npm (`@comradeweb` scope):
+A set of NestJS / TypeScript building blocks I authored and published on npm (`@comradeweb` scope) — extracted from a production internal-tools backend I built, not toy libraries:
 - **[@comradeweb/pipeline-kit](https://www.npmjs.com/package/@comradeweb/pipeline-kit)** — trigger-agnostic pipeline runner with typed step context, retry/prefetch/logging primitives and a pluggable run store
 - **[@comradeweb/pipeline-queue-kit](https://www.npmjs.com/package/@comradeweb/pipeline-queue-kit)** — BullMQ host for the pipelines: queue-bound processors, per-queue worker options, Bull Board-friendly job reporting
-- **[@comradeweb/browser-service-kit](https://www.npmjs.com/package/@comradeweb/browser-service-kit)** — headful-browser scenario host: Playwright manager, auth-state monitor with queue gating, and a catalogue of typed browser steps
+- **[@comradeweb/browser-service-kit](https://www.npmjs.com/package/@comradeweb/browser-service-kit)** — headful-browser automation primitives: Playwright lifecycle manager (launch / CDP-connect) and ambient human-behaviour simulation
+- **[@comradeweb/browser-auth-kit](https://www.npmjs.com/package/@comradeweb/browser-auth-kit)** — auth-state monitor for logged-in browser sessions: probes login state and pauses/resumes a BullMQ queue as auth is lost and restored
 - **[@comradeweb/ai-kit](https://www.npmjs.com/package/@comradeweb/ai-kit)** — Anthropic SDK wrapper with prompt caching, Zod structured output, pluggable cost recording and a generic AI-extraction step
 
 #### 🛠️ Tech
