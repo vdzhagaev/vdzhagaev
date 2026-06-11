@@ -10,7 +10,7 @@ to reason about as it grows.
 #### 🔭 Currently
 - Building **[budget-tracker](https://github.com/vdzhagaev/budget-tracker)** - a .NET 10 service designed around Clean Architecture, DDD and CQRS
 - Sharpening Go with **[watchlight](https://github.com/vdzhagaev/watchlight)** - a lightweight uptime monitoring service
-- Open to backend / full-stack roles — remote or relocation
+- Open to backend / full-stack roles - remote or relocation
 
 #### 📦 Published packages
 A set of NestJS / TypeScript building blocks I authored and published on npm (`@comradeweb` scope) - extracted from a production internal-tools backend I built, not toy libraries:
