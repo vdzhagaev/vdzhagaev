@@ -21,9 +21,9 @@ A set of NestJS / TypeScript building blocks I authored and published on npm (`@
 - **[@comradeweb/ai-kit](https://www.npmjs.com/package/@comradeweb/ai-kit)** - Anthropic SDK wrapper with prompt caching, Zod structured output, pluggable cost recording and a generic AI-extraction step
 
 #### 🛠️ Tech
-**Experienced:** TypeScript · NestJS · Node.js · Angular · MongoDB · JavaScript
-**Focusing on:** C# / .NET 10 · ASP.NET Core · EF Core · Go · PostgreSQL
-**Tooling:** Docker · Git · Linux
+- **Experienced:** TypeScript · NestJS · Node.js · Angular · MongoDB · JavaScript
+- **Focusing on:** C# / .NET 10 · ASP.NET Core · EF Core · Go · PostgreSQL
+- **Tooling:** Docker · Git · Linux
 
 #### 📫 Reach me
 - Email: **slava.dzhagaev@proton.me**
